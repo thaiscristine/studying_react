@@ -7,5 +7,3 @@ React + Redux: Fundamentos
 - Desenvolver uma aplicação do zero com React/Redux
 - Desenvolver uma aplicação full-stack em Javascript
 - Aplicar boas práticas de desenvolvimento
-
-- Testing commit from terminal

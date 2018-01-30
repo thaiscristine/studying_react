@@ -9,6 +9,7 @@ module.exports = {
     devServer: {
         port: 8080,
         contentBase: './public'
+<<<<<<< HEAD
     },
     module: {
         loaders: [{
@@ -19,5 +20,7 @@ module.exports = {
                 presets: ['es2015']
             }
         }]
+=======
+>>>>>>> 1eae3452a4015f1f24e27a30fb1f6390650f6ac3
     }
 }

@@ -10,9 +10,12 @@
   "author": "",
   "license": "ISC",
   "devDependencies": {
+<<<<<<< HEAD
     "babel-core": "^6.22.1",
     "babel-loader": "^6.2.10",
     "babel-preset-es2015": "^6.22.0",
+=======
+>>>>>>> 1eae3452a4015f1f24e27a30fb1f6390650f6ac3
     "webpack": "^1.14.0",
     "webpack-dev-server": "^1.16.2"
   }
